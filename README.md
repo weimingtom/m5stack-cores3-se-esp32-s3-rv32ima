@@ -12,6 +12,9 @@
 * https://github.com/weimingtom/wmt_riscv_study
 * https://github.com/weimingtom/mini-rv32ima_fork
 * https://github.com/xhackerustc/uc-rv32ima
+* =====
+* https://github.com/nodestark/esp32-running-linux  
+* https://nodestark.github.io/esp32-running-linux/
 
 ## ESP-IDF version for **Win10 and Win11**
 * ESP-IDF 5.4.4, for **Win10 and Win11**
